@@ -1,6 +1,6 @@
 # update_check
 
-A new Flutter project.
+An example project which download update apk or new apk and install it in android
 
 ## Getting Started
 
